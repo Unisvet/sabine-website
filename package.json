@@ -1,0 +1,13 @@
+{
+    "name": "sabine-website",
+    "version": "1.0.0",
+    "description": "Website preview configuration",
+    "scripts": {
+        "preview": "serve .",
+        "dev": "serve .",
+        "start": "serve ."
+    },
+    "devDependencies": {
+        "serve": "^14.2.4"
+    }
+}
